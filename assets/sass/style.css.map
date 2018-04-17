@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "style.css",
+  "sources": [
+    "style.scss",
+    "_variable.scss",
+    "_mixin.scss",
+    "_fruit.scss"
+  ],
+  "mappings": "AAAA,SAAS;;AGAT,AAAA,MAAM,CAAC;EACH,SAAS,EAAE,KAAM,GAOpB;;EARD,AAGI,MAHE,CAGF,MAAM,CAAC;IACH,KAAK,EAAE,IAAK;IACZ,MAAM,EAAE,KAAM,GACjB",
+  "names": []
+}
