@@ -2,6 +2,8 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    background: #ebebeb;
+
 }
 
 img {
@@ -13,7 +15,7 @@ header {
     @include degrade;
     font-family: $fontAma;
     color: white;
-    font-size: 2em;
+    font-size: 1.5em;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.4);
     display: flex;
     justify-content: center;
@@ -25,12 +27,9 @@ header {
     margin: 0;
     padding: 0;
     list-style: none;
-    background: #000;
-    width: 98%;
     font-family: $fontAndi;
-    background: #ebebeb;
-    padding: 1% 1%;
-    background-color: #4c4c4c;
+    padding: 20px 20px;
+
 
     .touch {
         display: block;
